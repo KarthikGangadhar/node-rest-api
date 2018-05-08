@@ -1,0 +1,22 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "This is a node rest api built using nodejs build-in modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarthikGangadhar/node-rest-api.git"
+  },
+  "keywords": [
+    "denendency-free"
+  ],
+  "author": "kgangadhar <karthikg1643@gmail.com> (https://github.com/karthikgangadhar)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarthikGangadhar/node-rest-api/issues"
+  },
+  "homepage": "https://github.com/KarthikGangadhar/node-rest-api#readme"
+}
